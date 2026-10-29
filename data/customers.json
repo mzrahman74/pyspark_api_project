@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "first_name": "John",
+    "last_name": "Smith",
+    "age": 30,
+    "country": "USA"
+  },
+  {
+    "id": 2,
+    "first_name": "Sara",
+    "last_name": "Johnson",
+    "age": 25,
+    "country": "Canada"
+  },
+  {
+    "id": 3,
+    "first_name": "David",
+    "last_name": "Brown",
+    "age": 40,
+    "country": "USA"
+  }
+]
