@@ -1,4 +1,6 @@
-pyspark
-fastapi
+pyspark~=4.2.0
+fastapi~=0.141.1
 uvicorn
 pandas
+
+starlette~=1.6.0
