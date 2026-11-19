@@ -28,6 +28,16 @@ pyspark_api_project/
 ├── .gitignore
 └── README.md
 ```
+your_project/
+│
+├── app.py
+├── spark_job.py
+├── templates/
+│   └── index.html
+└── data/
+    ├── customers.csv
+    ├── customers.json
+    └── customers.xml
 
 > `.venv/` should not be committed to Git.
 
